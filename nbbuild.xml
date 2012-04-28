@@ -77,5 +77,4 @@
             <fileset dir="resources" includes="**" />
         </copy>
     </target>
-    
 </project>
