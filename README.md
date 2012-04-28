@@ -1,4 +1,4 @@
 OccBlocks
 =========
 
-A visual editor for occam-pi
+A visual editor for occam-pi.
